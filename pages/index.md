@@ -12,10 +12,10 @@ subnav:
     href: '#what-are-the-benefits'
   - text: The Plays...
     href: '#the-plays'
-  - text: 1. Ideate Solutions That Meet the Needs of Business
-    href: '#1-ideate-solutions-that-meet-the-needs-of-business'
-  - text: 2. Successfully Navigate the Project Intake Process
-    href: '#2-successfully-navigate-the-project-intake-process'
+    - text: 1. Ideate Solutions That Meet the Needs of Business
+      href: '#1-ideate-solutions-that-meet-the-needs-of-business'
+    - text: 2. Successfully Navigate the Project Intake Process
+      href: '#2-successfully-navigate-the-project-intake-process'
   - text: 3. Building Your Team
     href: '#3-building-your-team'
   - text: 4. Ready, Refine, Sprint
