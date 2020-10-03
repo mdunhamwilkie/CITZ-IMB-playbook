@@ -12,7 +12,7 @@ subnav:
     href: '#what-are-the-benefits'
   - text: The Plays...
     href: '#the-plays'
-    subnav: 
+    - subnav: 
       - text: 1. Ideate Solutions That Meet the Needs of Business
         href: '#1-ideate-solutions-that-meet-the-needs-of-business'
       - text: 2. Successfully Navigate the Project Intake Process
